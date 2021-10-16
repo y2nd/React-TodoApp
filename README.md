@@ -12,4 +12,3 @@ npm start
 ```
 this will open a live a server page. 
 
-if you would like to compile the app to 
