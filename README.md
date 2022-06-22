@@ -1,6 +1,6 @@
-This is a simple do to app built with React. 
+This is a simple TODO app built with React. 
 
-## How to run ? 
+## Run
 if you are running this for the first time simply type: 
 ```bash
 npm install
